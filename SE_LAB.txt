@@ -1,0 +1,8 @@
+This lab is about version controller "Github"
+Here we are being taught about different concepts of git  like
+i)Reppository
+ii)git commands:
+git init
+git add
+git commit
+
